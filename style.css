@@ -1,0 +1,217 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700,800,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rancho&display=swap');
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins',sans-serif;
+}
+.main{
+    width: 100%;
+    background: linear-gradient(to top, rgba(0,0,0,0)50%, rgba(0,0,0,0)50%),url(2271.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 109vh;
+}
+body
+{
+    overflow-x: hidden;
+    background: #fff;
+    min-height: 100vh;
+}
+.menu
+{
+    position: absolute;
+    top: 1px;
+    left: 60%;
+    width: 100%;
+    padding: 30px 100px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+.logo{
+    color: #094b65;
+    font-weight: 700;
+    font-size: 1.5em;
+    text-decoration: none;
+    margin-top: 5%;
+    line-height: 2;
+}
+ul{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+ul li{
+    list-style: none;
+    margin-left: 20px;
+}
+ul li a{
+    text-decoration: none;
+    padding: 6px 15px;
+    color: #094b65;
+    border-radius: 20px;
+}
+ul li a:hover
+{
+    background: #094b65;
+    color: #fff;
+}
+section{
+    position: relative;
+    width: 100%;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+section #text{
+    position: absolute;
+    color: #094b65;
+    font-size: 10vw;
+    text-align: center;
+    line-height: 0.55em;
+    font-family: 'Rancho', cursive;
+    transform: translateY(-50%);
+
+}
+section #text span{
+    font-size: 0.20em;
+    letter-spacing: 2px;
+    font-weight: 400;
+    font-family: 'Poppins',sans-serif;
+}
+#btn{
+    text-decoration: none;
+    display: inline-block;
+    padding: 8px 30px;
+    background: #ff0;
+    color: #094b65;
+    font-size: 1.2em;
+    font-weight: 500;
+    letter-spacing: 2px;
+    border-radius: 40px;
+    transform: translateY(100px);
+}
+
+.sec{
+    position: relative;
+    padding: 100px;
+    background: #094b65;
+    height: 100vh;
+}
+.sec h2{
+    font-size: 3.5em;
+    color: #fff;
+    margin-bottom: 10px;  
+    font-family: 'Rancho', cursive;
+}
+.sec p{
+    font-size: 1em;
+    color: #fff;
+}
+
+
+.container
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    height: 100vh;
+    background: #E7EDF0;
+}
+.heading{
+    font-size: 5.5rem;
+    margin-right: -3px;
+    margin-bottom: 5rem;
+    text-align: center;
+    color: #094b65;
+    position: relative;
+    font-family: 'Rancho', cursive;
+}
+.heading::after{
+    content: "";
+    width: 10rem;
+    height: .8rem;
+    background-color: #36187d;
+    position: absolute;
+    bottom: -2rem;
+    left: 50%;
+    transform: translateX(-50%);
+    border-radius: 2rem;
+}
+.container .card
+{
+    width: 330px;
+    height: 416px;
+    padding: 60px 30px;
+    margin: 20px;
+    background: #f2f3f7;
+    box-shadow: 0.6em 0.6em 1.2em #d2dce9,
+                -0.5em -0.5em 1em #fff;
+    border-radius: 20px;
+}
+.container .card .content
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.container .card .content .imgBx
+{
+    width: 180px;
+    height: 180px;
+    border-radius: 50%;
+    position: relative;
+    margin-bottom: 20px;
+    overflow: hidden;
+}
+.container .card .content .imgBx img 
+{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.container .card .content .contentBx h4
+{
+    color: #36187d;
+    font-size: 1.7rem;
+    font-weight: hold;
+    text-align: center;
+    letter-spacing: 1px;
+} 
+.container .card .content .contentBx h5
+{
+    color: #6c758f;
+    font-size: 1.2rem;
+    font-weight: bold;
+    text-align: center;
+}
+.container .card .content .sci
+{
+    margin-top: 20px;
+}
+
+.container .card .content .sci a
+{
+    text-decoration: none;
+    color: #6c758f;
+    font-size: 30px;
+    margin: 10px;
+    transition: color 0.4s;
+}
+.container .card .content .sci a:hover
+{
+    color: #0196e3;
+}
+
+ 

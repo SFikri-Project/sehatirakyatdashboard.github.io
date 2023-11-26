@@ -1,0 +1,9 @@
+Selamat datang di Sehati Rakyat, dashboard kesehatan yang inovatif dan interaktif.SehatiRakyat adalah dashboard yang dapat
+ memberikan informasi yang akurat dan up-to-date tentang kondisi kesehatan masyarakat di suatu wilayah, sehingga dapat 
+ membantu pengambilan keputusan yang lebih baik dalam upaya meningkatkan kesehatan masyarakat. 
+<br>Dengan menggunakan dashboard SehatiRakyat, masyarakat dapat memantau kondisi kesehatan mereka secara mandiri dan mengambil 
+tindakan pencegahan yang tepat sebelum terjadinya penyakit. Selain itu, dashboard ini juga dapat membantu para profesional kesehatan 
+dalam merencanakan program kesehatan dan pelayanan yang lebih efektif, sesuai dengan kebutuhan masyarakat setempat. <br>Dengan adanya 
+dashboard kesehatan yang efektif, diharapkan dapat membantu masyarakat dan para profesional kesehatan dalam memantau kondisi kesehatan masyarakat,  fasilitas kesehatan, dan juga tenaga kesehatan di provinsi-provinsi yang ada di Indonesia secara lebih akurat dan efektif. Hal tersebut sebagai dasar untuk mengambil tindakan yang tepat untuk meningkatkan kesehatan masyarakat di Indonesia dan dapat membantu Indonesia untuk mencapai tujuan kesehatan masyarakat yang lebih baik dan lebih berkelanjutan. 
+yang menggabungkan teknologi modern dengan perawatan kesehatan yang terpercaya, memberikan Anda akses mudah dan cepat ke informasi, 
+layanan, dan sumber daya kesehatan yang Anda butuhkan.
